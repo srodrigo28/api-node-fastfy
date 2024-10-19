@@ -17,3 +17,4 @@ npx tsc --init
 ```
 npm install fastify @fastify/cors
 ```
+npm install @types/node --save-dev
